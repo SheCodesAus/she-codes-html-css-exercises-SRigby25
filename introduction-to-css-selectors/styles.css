@@ -1,0 +1,35 @@
+body {
+    background-color: lavender;
+}
+
+#div{
+    background-color: peachpuff;
+}
+
+
+/* when definiing a list start with a full stop */
+
+.list-item {
+    background-color: darkseagreen;
+}
+
+.main-heading{
+    background-color:lightskyblue;
+}      
+/* ID use a # Class use a  . */
+
+#first-paragraph{
+    background-color: lightcoral;
+}
+
+/* class if we wnt multiple elements to have the same styles applied
+we use id if we eant only one element to have styles */
+
+.nav-heading{
+    background-color: mediumpurple;
+}
+
+.nav-heading1{
+    background:gold
+}
+
